@@ -9,7 +9,7 @@
   "author": "Mohammed Ismail",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.17.2",
+    "body-parser": "^1.20.6",
     "ejs": "^2.5.6",
     "express": "^4.15.3",
     "faker": "^4.1.0"
